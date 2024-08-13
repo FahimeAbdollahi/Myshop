@@ -1,5 +1,6 @@
-<p align="center"><img src="https://github.com/user-attachments/assets/276d1f30-edb7-4cfd-8e06-673aae1e23d9"></a></p>
-
+# MyShop
+MyShop
+![Ecommerce V2 0](https://github.com/user-attachments/assets/decc68b1-936b-4485-bea2-4112f31ea842)
 
 ## About Project
 
