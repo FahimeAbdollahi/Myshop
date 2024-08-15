@@ -45,4 +45,10 @@ class OrderController extends Controller
         $order->delete();
         return redirect()->route('orders.index');
     }
+
+    public function show(Order $order)
+{
+    return view('orders.show', compact('order'));
+}
+
 }
