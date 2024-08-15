@@ -23,3 +23,6 @@ class ProductSeeder extends Seeder
             'price' => 200,
             'category_id' => 1,
             'seller_id' => 1,
+        ]);
+    }
+}
